@@ -4,7 +4,7 @@
 # "\"
 # "/"
 
-hauteur = int(input("Entrez la hauteur de votre traiangle: "))
+hauteur = int(input("Entrez la hauteur de votre triangle: "))
 if hauteur == 0:
     print("Size is null.")
     exit()
