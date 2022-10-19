@@ -1,6 +1,5 @@
 
 # Écrire un programme qui affiche dans le terminal un triangle avec des :
-#
 # "_"
 # "\"
 # "/"
